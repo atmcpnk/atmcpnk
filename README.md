@@ -28,7 +28,7 @@ Projects i've worked on:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,nodejs,postgres,react,redux,sequelize,)](https://skillicons.dev)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=aligabih&count_private=true&show_icons=true&theme=radical)](https://github.com/atmcpnk)
+<!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=aligabih&count_private=true&show_icons=true&theme=radical)](https://github.com/atmcpnk) -->
 
 
 <!--
