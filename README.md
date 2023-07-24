@@ -16,7 +16,7 @@ Projects i've worked on:
     * Tasked with creating scenes with Phaser.js for ease of compatibility and repeatability throughout the project (title
     menu, game controls/loading screen, game credits, incl: routing, connections between scenes)
     * Styled all scenes with Phaser.js graphics to fit the overall theme of the in-game universe
-- **"GraceBuster"** - Front-End Engineer | [GitHub Repo](https://github.com/orgs/GraceShopper-Team-GraceBuster/repositories) | [Deployed Site](https://grace-buster.onrender.com/)
+- **"GraceBuster"** - Front-End Engineer | [GitHub Repo](https://github.com/orgs/GraceShopper-Team-GraceBuster/repositories) 
     * A fullstack e-commerce site that allows users to pick their favorite classic movies,
     add them to their account cart, or guest cart, and checkout
     * Working with three other software engineer students, I was tasked with the front-end development, this includes, file structuring, routing, component creation, and styling
