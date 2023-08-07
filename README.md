@@ -1,9 +1,11 @@
 ### Hi there 👋, Welcome to my GitHub profile! 
 
 ## 💬 About Me 
-I am a highly motivated and passionate software engineer gifted with a knack for creativity, strong communication, team collaboration, data-driven decisions, and personal leadership. I've recently graduated from Fullstack Academy in their full-time software immersive program with experience in several fullstack technologies listed below! 
+I am a highly motivated and passionate Fullstack software engineer gifted with a knack for creativity, strong communication, team collaboration, data-driven decisions, and personal leadership. 
 
 I am also a guitarist, you may see me on stage jamming with my band or hear me rehearsing loudly! 🎸
+
+Check out my projects below!
 
 ## 🚀 Projects
 Projects i've worked on: 
