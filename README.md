@@ -5,7 +5,7 @@ I am a highly motivated and passionate Fullstack software engineer gifted with a
 
 I am also a guitarist, you may see me on stage jamming with my band or hear me rehearsing loudly! 🎸
 
-Check out my projects below!
+Visit [abe-flores.com](https://abe-flores.com/) to get to know be better and check out my projects below!
 
 ## 🚀 Projects
 Projects i've worked on: 
