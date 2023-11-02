@@ -10,6 +10,12 @@ Visit [abe-flores.com](https://abe-flores.com/) to get to know be better and che
 ## 🚀 Projects
 Projects i've worked on: 
 
+- **LA Fashion Week** - Fullstack Engineer | [Live Site](https://lafw.net/)
+    * A fullstack site built for N4xtexperiences, owners of LA Fashion Week
+    * Built using Wordpress backend, and elementor, HTML, CSS front-end for a fast deployable, responsive and quick site
+    * Working with teams cross functionally in social media marketing, project management, and business operations
+    * On this team I was tasked with designing, building, and deploying the site, meeting strict deadlines with specific features such as a blog area, video blog area, and content features of creatives at the event
+    * After designing and building this I moved into the maintenence and care role for the site and ensuring that all was working well 
 - **"Infinite Worlds"** - Phaser.js Scene Creator & Designer | [GitHub Repo](https://github.com/Infinite-Worlds-FSA/Infinite-Worlds)
     * A side-scrolling platformer game that takes users through experiences of vintage 90’s era games that we all enjoy
     * Built using Javascript, Phaser.js, and SCSS
