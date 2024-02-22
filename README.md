@@ -34,7 +34,7 @@ Projects i've worked on:
     
 ## 👨‍💻 Skills & Stats
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,nodejs,postgres,react,redux,sequelize,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,nodejs,postgres,react,nextjs,redux,sequelize,)](https://skillicons.dev)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=atmcpnk&count_private=true&show_icons=true&theme=dracula)](https://github.com/atmcpnk)
 
