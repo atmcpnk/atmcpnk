@@ -22,6 +22,13 @@ Projects I've worked on:
     * Built and supported a high-traffic event platform supporting relief donations for victims of the Palisades and Altadena fires
     * Optimized responsive UI layouts for large traffic spikes during live event coverage
     * Worked with cross-functional teams to deploy and maintain production event pages
+      
+ - **HVNTED.com** — Frontend Engineer | [Live Site](https://hvnted.com/)  
+    * Built a modern band website using **Next.js and Tailwind CSS**
+    * Integrated **Google Workspace APIs** to allow non-technical users to manage content and structured data without direct code changes
+    * Designed frontend interfaces that allow data manipulation and dynamic content updates
+    * Implemented reusable UI components and responsive layouts across devices
+    * Focused on performance optimization and scalable frontend architecture
 
 - **LA Fashion Week** — Fullstack Engineer | [Live Site](https://lafw.net/)  
     * Built and deployed a full production website for N4xtExperiences, owners of LA Fashion Week
